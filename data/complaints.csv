@@ -1,0 +1,151 @@
+complaint_id,road_id,issue_type,description,status,created_at
+CMP001,R081,Pothole,Citizen reported issue,Open,2026-05-11
+CMP002,R073,Road Crack,Citizen reported issue,Open,2026-04-29
+CMP003,R016,Streetlight Failure,Citizen reported issue,In Progress,2026-03-14
+CMP004,R077,Streetlight Failure,Citizen reported issue,Open,2026-03-25
+CMP005,R049,Road Damage,Citizen reported issue,In Progress,2026-04-22
+CMP006,R076,Road Damage,Citizen reported issue,In Progress,2026-03-19
+CMP007,R080,Pothole,Citizen reported issue,Resolved,2026-05-18
+CMP008,R098,Waterlogging,Citizen reported issue,Resolved,2026-05-03
+CMP009,R034,Pothole,Citizen reported issue,Open,2026-04-30
+CMP010,R023,Streetlight Failure,Citizen reported issue,Open,2026-05-10
+CMP011,R001,Road Damage,Citizen reported issue,In Progress,2026-03-03
+CMP012,R077,Road Damage,Citizen reported issue,In Progress,2026-05-26
+CMP013,R030,Road Crack,Citizen reported issue,Resolved,2026-04-24
+CMP014,R090,Road Damage,Citizen reported issue,Open,2026-03-04
+CMP015,R030,Road Crack,Citizen reported issue,Resolved,2026-03-16
+CMP016,R085,Waterlogging,Citizen reported issue,In Progress,2026-05-16
+CMP017,R070,Waterlogging,Citizen reported issue,Resolved,2026-05-11
+CMP018,R035,Waterlogging,Citizen reported issue,Open,2026-05-23
+CMP019,R022,Road Crack,Citizen reported issue,Resolved,2026-03-19
+CMP020,R037,Road Damage,Citizen reported issue,Open,2026-04-01
+CMP021,R089,Road Crack,Citizen reported issue,Resolved,2026-04-09
+CMP022,R035,Streetlight Failure,Citizen reported issue,Resolved,2026-03-28
+CMP023,R057,Pothole,Citizen reported issue,Resolved,2026-05-25
+CMP024,R056,Road Crack,Citizen reported issue,Resolved,2026-04-28
+CMP025,R004,Pothole,Citizen reported issue,Open,2026-03-05
+CMP026,R074,Streetlight Failure,Citizen reported issue,Open,2026-03-05
+CMP027,R035,Streetlight Failure,Citizen reported issue,Open,2026-05-08
+CMP028,R061,Streetlight Failure,Citizen reported issue,Resolved,2026-04-04
+CMP029,R036,Waterlogging,Citizen reported issue,Resolved,2026-04-05
+CMP030,R082,Road Damage,Citizen reported issue,Open,2026-03-31
+CMP031,R045,Road Damage,Citizen reported issue,In Progress,2026-04-19
+CMP032,R086,Pothole,Citizen reported issue,Open,2026-04-18
+CMP033,R053,Road Damage,Citizen reported issue,In Progress,2026-03-07
+CMP034,R052,Streetlight Failure,Citizen reported issue,Open,2026-04-02
+CMP035,R012,Road Crack,Citizen reported issue,In Progress,2026-04-19
+CMP036,R015,Road Damage,Citizen reported issue,Resolved,2026-05-30
+CMP037,R085,Streetlight Failure,Citizen reported issue,In Progress,2026-04-08
+CMP038,R007,Waterlogging,Citizen reported issue,Resolved,2026-04-14
+CMP039,R080,Road Damage,Citizen reported issue,Resolved,2026-04-04
+CMP040,R098,Pothole,Citizen reported issue,Open,2026-04-26
+CMP041,R071,Waterlogging,Citizen reported issue,In Progress,2026-04-04
+CMP042,R090,Road Damage,Citizen reported issue,Open,2026-05-27
+CMP043,R081,Streetlight Failure,Citizen reported issue,Open,2026-05-10
+CMP044,R040,Streetlight Failure,Citizen reported issue,Open,2026-03-21
+CMP045,R053,Pothole,Citizen reported issue,Open,2026-05-16
+CMP046,R060,Pothole,Citizen reported issue,Resolved,2026-05-11
+CMP047,R064,Road Crack,Citizen reported issue,Resolved,2026-04-26
+CMP048,R054,Road Damage,Citizen reported issue,In Progress,2026-04-29
+CMP049,R059,Streetlight Failure,Citizen reported issue,Open,2026-04-11
+CMP050,R025,Streetlight Failure,Citizen reported issue,Resolved,2026-05-13
+CMP051,R009,Road Crack,Citizen reported issue,In Progress,2026-04-17
+CMP052,R065,Road Crack,Citizen reported issue,Open,2026-04-24
+CMP053,R093,Road Crack,Citizen reported issue,Resolved,2026-03-17
+CMP054,R085,Road Damage,Citizen reported issue,Open,2026-04-03
+CMP055,R069,Road Damage,Citizen reported issue,In Progress,2026-04-18
+CMP056,R071,Streetlight Failure,Citizen reported issue,In Progress,2026-04-02
+CMP057,R042,Waterlogging,Citizen reported issue,Resolved,2026-04-30
+CMP058,R074,Road Damage,Citizen reported issue,Open,2026-04-08
+CMP059,R006,Road Crack,Citizen reported issue,Resolved,2026-03-31
+CMP060,R091,Road Damage,Citizen reported issue,In Progress,2026-03-07
+CMP061,R084,Waterlogging,Citizen reported issue,In Progress,2026-05-26
+CMP062,R017,Streetlight Failure,Citizen reported issue,Resolved,2026-04-18
+CMP063,R013,Road Damage,Citizen reported issue,Open,2026-03-24
+CMP064,R059,Pothole,Citizen reported issue,Resolved,2026-05-12
+CMP065,R053,Waterlogging,Citizen reported issue,Open,2026-03-31
+CMP066,R034,Road Crack,Citizen reported issue,Resolved,2026-03-03
+CMP067,R051,Pothole,Citizen reported issue,In Progress,2026-03-05
+CMP068,R069,Road Damage,Citizen reported issue,In Progress,2026-03-11
+CMP069,R092,Road Damage,Citizen reported issue,Resolved,2026-05-26
+CMP070,R080,Pothole,Citizen reported issue,Open,2026-03-11
+CMP071,R088,Road Crack,Citizen reported issue,Open,2026-05-19
+CMP072,R056,Pothole,Citizen reported issue,Resolved,2026-05-18
+CMP073,R057,Waterlogging,Citizen reported issue,Resolved,2026-04-22
+CMP074,R004,Pothole,Citizen reported issue,In Progress,2026-05-23
+CMP075,R038,Road Crack,Citizen reported issue,In Progress,2026-04-05
+CMP076,R019,Waterlogging,Citizen reported issue,Resolved,2026-04-08
+CMP077,R073,Waterlogging,Citizen reported issue,Open,2026-05-08
+CMP078,R011,Streetlight Failure,Citizen reported issue,In Progress,2026-03-12
+CMP079,R088,Waterlogging,Citizen reported issue,In Progress,2026-03-17
+CMP080,R019,Waterlogging,Citizen reported issue,In Progress,2026-03-10
+CMP081,R033,Road Damage,Citizen reported issue,In Progress,2026-03-06
+CMP082,R002,Road Damage,Citizen reported issue,In Progress,2026-03-05
+CMP083,R070,Waterlogging,Citizen reported issue,Open,2026-04-04
+CMP084,R045,Streetlight Failure,Citizen reported issue,In Progress,2026-03-10
+CMP085,R055,Road Crack,Citizen reported issue,In Progress,2026-04-22
+CMP086,R026,Road Damage,Citizen reported issue,In Progress,2026-05-17
+CMP087,R031,Road Damage,Citizen reported issue,Resolved,2026-04-15
+CMP088,R074,Road Crack,Citizen reported issue,Resolved,2026-04-23
+CMP089,R003,Road Damage,Citizen reported issue,In Progress,2026-05-29
+CMP090,R073,Pothole,Citizen reported issue,Resolved,2026-03-28
+CMP091,R037,Waterlogging,Citizen reported issue,Resolved,2026-04-15
+CMP092,R029,Waterlogging,Citizen reported issue,Resolved,2026-04-28
+CMP093,R087,Waterlogging,Citizen reported issue,Resolved,2026-05-18
+CMP094,R081,Pothole,Citizen reported issue,In Progress,2026-04-04
+CMP095,R005,Streetlight Failure,Citizen reported issue,In Progress,2026-05-14
+CMP096,R012,Road Crack,Citizen reported issue,In Progress,2026-04-07
+CMP097,R023,Waterlogging,Citizen reported issue,Open,2026-03-22
+CMP098,R047,Streetlight Failure,Citizen reported issue,Resolved,2026-04-26
+CMP099,R022,Road Crack,Citizen reported issue,In Progress,2026-04-23
+CMP100,R096,Road Crack,Citizen reported issue,Open,2026-04-01
+CMP101,R010,Waterlogging,Citizen reported issue,Open,2026-03-05
+CMP102,R093,Road Damage,Citizen reported issue,Resolved,2026-04-14
+CMP103,R012,Road Damage,Citizen reported issue,Open,2026-04-27
+CMP104,R069,Pothole,Citizen reported issue,In Progress,2026-04-13
+CMP105,R087,Road Crack,Citizen reported issue,Resolved,2026-04-12
+CMP106,R082,Road Crack,Citizen reported issue,Open,2026-03-05
+CMP107,R030,Road Damage,Citizen reported issue,Open,2026-03-12
+CMP108,R072,Road Crack,Citizen reported issue,Resolved,2026-05-02
+CMP109,R083,Pothole,Citizen reported issue,Resolved,2026-04-01
+CMP110,R090,Road Crack,Citizen reported issue,Resolved,2026-04-08
+CMP111,R015,Waterlogging,Citizen reported issue,Open,2026-05-26
+CMP112,R039,Road Damage,Citizen reported issue,Open,2026-05-18
+CMP113,R031,Streetlight Failure,Citizen reported issue,Open,2026-04-11
+CMP114,R059,Road Crack,Citizen reported issue,Resolved,2026-03-02
+CMP115,R070,Road Damage,Citizen reported issue,Resolved,2026-05-11
+CMP116,R054,Pothole,Citizen reported issue,In Progress,2026-03-13
+CMP117,R053,Road Crack,Citizen reported issue,Open,2026-03-03
+CMP118,R048,Waterlogging,Citizen reported issue,In Progress,2026-04-04
+CMP119,R031,Road Crack,Citizen reported issue,Open,2026-03-04
+CMP120,R048,Streetlight Failure,Citizen reported issue,Resolved,2026-04-15
+CMP121,R008,Road Damage,Citizen reported issue,In Progress,2026-05-06
+CMP122,R016,Road Damage,Citizen reported issue,Open,2026-03-07
+CMP123,R028,Streetlight Failure,Citizen reported issue,Open,2026-05-24
+CMP124,R043,Waterlogging,Citizen reported issue,Open,2026-03-19
+CMP125,R027,Pothole,Citizen reported issue,Resolved,2026-05-04
+CMP126,R076,Waterlogging,Citizen reported issue,Open,2026-04-18
+CMP127,R100,Waterlogging,Citizen reported issue,Resolved,2026-05-30
+CMP128,R036,Waterlogging,Citizen reported issue,Open,2026-03-22
+CMP129,R033,Waterlogging,Citizen reported issue,Open,2026-03-07
+CMP130,R004,Waterlogging,Citizen reported issue,Open,2026-04-15
+CMP131,R031,Streetlight Failure,Citizen reported issue,In Progress,2026-05-28
+CMP132,R023,Road Crack,Citizen reported issue,Open,2026-05-14
+CMP133,R095,Road Damage,Citizen reported issue,Resolved,2026-05-16
+CMP134,R096,Pothole,Citizen reported issue,In Progress,2026-04-03
+CMP135,R100,Road Crack,Citizen reported issue,Resolved,2026-03-16
+CMP136,R014,Road Damage,Citizen reported issue,Resolved,2026-05-02
+CMP137,R079,Pothole,Citizen reported issue,Resolved,2026-03-07
+CMP138,R067,Road Crack,Citizen reported issue,In Progress,2026-03-09
+CMP139,R004,Pothole,Citizen reported issue,In Progress,2026-04-09
+CMP140,R055,Pothole,Citizen reported issue,In Progress,2026-04-04
+CMP141,R010,Pothole,Citizen reported issue,In Progress,2026-03-14
+CMP142,R019,Pothole,Citizen reported issue,Open,2026-04-25
+CMP143,R080,Streetlight Failure,Citizen reported issue,Resolved,2026-04-19
+CMP144,R049,Streetlight Failure,Citizen reported issue,Resolved,2026-04-23
+CMP145,R059,Streetlight Failure,Citizen reported issue,Resolved,2026-04-05
+CMP146,R013,Pothole,Citizen reported issue,Resolved,2026-03-08
+CMP147,R099,Streetlight Failure,Citizen reported issue,Resolved,2026-05-03
+CMP148,R056,Road Damage,Citizen reported issue,Open,2026-04-08
+CMP149,R044,Road Damage,Citizen reported issue,In Progress,2026-04-07
+CMP150,R094,Pothole,Citizen reported issue,In Progress,2026-04-06
